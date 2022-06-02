@@ -9,7 +9,7 @@
 3.	Initial Login Details
 ```
 	Username		Password
-	________________________
+	__________________________________
 	sandeepcs	  	123
  ```
 4.	One can View the tables  and data in the database using SQLiteStudio. <br>
